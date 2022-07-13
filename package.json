@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-js-practico",
+  "version": "1.0.0",
+  "description": "Curso Práctico de API Rest con js platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayan4242/curso-api-rest-js-practico.git"
+  },
+  "author": "Brayan Ramirez <brayanraph42@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brayan4242/curso-api-rest-js-practico/issues"
+  },
+  "homepage": "https://github.com/Brayan4242/curso-api-rest-js-practico#readme"
+}
