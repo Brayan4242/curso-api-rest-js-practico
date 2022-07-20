@@ -1,5 +1,3 @@
-es(45 sloc) 1.75 KB
-
 const api = axios.create({
     baseURL: 'https://api.themoviedb.org/3/',
     headers: {
